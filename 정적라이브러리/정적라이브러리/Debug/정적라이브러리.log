@@ -1,0 +1,13 @@
+﻿빌드 시작: 2015-09-29 오후 11:52:42
+     1>2 노드의 "C:\Users\seul\Desktop\정적라이브러리\정적라이브러리\정적라이브러리.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt library.c
+         library.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\seul\Desktop\정적라이브러리\Debug\정적라이브러리.lib" /NOLOGO Debug\library.obj
+         정적라이브러리.vcxproj -> C:\Users\seul\Desktop\정적라이브러리\Debug\정적라이브러리.lib
+     1>"C:\Users\seul\Desktop\정적라이브러리\정적라이브러리\정적라이브러리.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.23
